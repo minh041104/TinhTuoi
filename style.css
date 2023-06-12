@@ -15,6 +15,9 @@ body {
     border-radius: 5px;
 }
 
+h1 {
+    color: white;
+}
 h2 {
     color: white;
     font-size: 24px;
@@ -47,6 +50,7 @@ button:hover {
 }
 
 #result {
+    color: white;
     font-size: 20px;
     margin-top: 20px;
 }
